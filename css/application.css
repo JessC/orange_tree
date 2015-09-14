@@ -1,0 +1,29 @@
+.display-tree-small{
+  /*background: url('../images/tree.jpeg');*/
+  background-repeat: no-repeat;
+  height:0px; /* start tree height and */
+  width:0px;  /* width at zero...so it can grow */
+}
+
+.display-tree-big{
+  background: url('../images/tree_5.png');
+  background-repeat: no-repeat;
+  margin-top: 50px;
+  height:1500px;
+  width:1500px;
+}
+
+#orange-tree-template { display: none; }
+
+/*makes everything dealing with the orange tree invisible
+until the button to plant a tree is clicked */
+
+/* Add more styles here*/
+
+body {
+	height: 800px;
+}
+
+.age{
+
+}
