@@ -1,8 +1,11 @@
+***THIS REPO IS COPIED FROM MY PRIVATE REPO***
+
 # Orange Trees
 
 This was an assignment at DBC. The explanation can be read below.
 I went back to this assignment and improved upon is to add a few new features using jQuery and Javascript. 
 How my code is different:
+
 *Orange tree increments(with animation) in size while growing to fruit bearing age
 *At fruit bearing age oranges appear in random places on tree.
 *Orange count is random each year
